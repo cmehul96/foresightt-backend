@@ -10,8 +10,9 @@ const app = express();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://foresightt-iwivrbui9-cmehul96s-projects.vercel.app', // <-- Updated to your actual Vercel domain
-  'https://foresightt-656hwc2kb-cmehul96s-projects.vercel.app', // new deployment
+  'https://foresightt-iwivrbui9-cmehul96s-projects.vercel.app',
+  'https://foresightt-656hwc2kb-cmehul96s-projects.vercel.app',
+  'https://foresightt-alcig6tqm-cmehul96s-projects.vercel.app', // new deployment
 ];
 
 app.use(cors({
