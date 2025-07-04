@@ -13,6 +13,7 @@ const allowedOrigins = [
   'https://foresightt-iwivrbui9-cmehul96s-projects.vercel.app',
   'https://foresightt-656hwc2kb-cmehul96s-projects.vercel.app',
   'https://foresightt-alcig6tqm-cmehul96s-projects.vercel.app', // new deployment
+  'https://foresightt-9mutf5b6m-cmehul96s-projects.vercel.app', // new deployment
 ];
 
 app.use(cors({
